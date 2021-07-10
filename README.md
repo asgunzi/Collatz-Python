@@ -25,3 +25,4 @@ Foram 8 passos para convergir para 1.
 
 
 
+Vide notebook e o post em https://medium.com/ideias-anal%C3%ADticas-avan%C3%A7adas/conjectura-de-collatz-visualiza%C3%A7%C3%B5es-utilizando-python-5d7858538c88
